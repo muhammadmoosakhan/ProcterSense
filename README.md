@@ -62,3 +62,31 @@ ProctorSense/
 ├── models/                 # Contains shape predictor & model files
 ├── logs/                   # Logs and screenshots 
 └── dlib-wheel/             # Pre-downloaded dlib binary for Windows
+
+
+
+## 👨‍💻 Team
+
+### 🧠 Muhammad Moosa Khan  
+**Co-Team Lead | Vision Architect | Project Manager**  
+Led the project's vision, logic building, and conceptual architecture. Spearheaded creative design, team coordination, UI/UX aesthetics, and branding strategies. Played a key role in feature ideation, planning, and technical documentation.
+
+### 💻 Hussain Mansoor Bhutto  
+**Co-Team Lead | System Architect | Technical Lead**  
+The technical backbone of ProctorSense. Led system integration, code compilation, debugging, and deployment. Managed model optimization and live demonstration. Also pitched the project effectively, playing a vital role in our win.
+
+---
+
+### 👁️ Mahnoor Noman  
+**Module Contributor – Head Pose Detection**  
+Worked on head pose estimation logic using MediaPipe and dlib. Assisted in dataset understanding and camera setup validations.
+
+### 👁️ Karishma Kumari & 🖐️ Munira Quaid Joher  
+**Module Contributors – Eye & Hand Tracking**  
+- Karishma contributed to the **eye gaze detection module**, researching facial landmark precision and integrating detection with system input.
+- Munira focused on the **hand presence monitoring module**, supporting logic structuring, feature handling, and behavioral flag triggers.
+
+---
+
+> 🤝 *Together, we collaborated on ProctorSense to bring vision, technical excellence, and usability under one roof — aiming to redefine digital monitoring through AI.*
+
