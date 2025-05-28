@@ -1,0 +1,5 @@
+streamlit
+opencv-python
+dlib==19.24.9
+numpy
+ultralytics==8.2.2
